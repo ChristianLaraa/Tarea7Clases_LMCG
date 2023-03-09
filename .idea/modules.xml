@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Balon/Balon.iml" filepath="$PROJECT_DIR$/Balon/Balon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Computadora/Computadora.iml" filepath="$PROJECT_DIR$/Computadora/Computadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuboRubik/CuboRubik.iml" filepath="$PROJECT_DIR$/CuboRubik/CuboRubik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gato/Gato.iml" filepath="$PROJECT_DIR$/Gato/Gato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Giroscopio/Giroscopio.iml" filepath="$PROJECT_DIR$/Giroscopio/Giroscopio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lampara/Lampara.iml" filepath="$PROJECT_DIR$/Lampara/Lampara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libro/Libro.iml" filepath="$PROJECT_DIR$/Libro/Libro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tarea7Clases.iml" filepath="$PROJECT_DIR$/Tarea7Clases.iml" />
+    </modules>
+  </component>
+</project>
